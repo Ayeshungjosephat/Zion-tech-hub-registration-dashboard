@@ -68,14 +68,8 @@ Including occupation would therefore provide a limited and potentially unreprese
 
 ## Recommendations
 1. Budget allocation
-Channel	Budget	Audience focus
-X (Twitter)	65%	Data Science & AI, Healthcare
-LinkedIn	15%	Data Science & AI, Financial Analytics
-WhatsApp	10%	Healthcare, Data Science & AI
-Referral	5%	Existing registrants/alumni
-Facebook	3%	Broad program awareness
-Instagram	2%	Awareness/younger audiences
 
+![Zion Tech Hub budget](https://github.com/Ayeshungjosephat/Zion-tech-hub-registration-dashboard/blob/main/budget.PNG)
 2. Start campaign before peak registration months (January & November) and Mid-week in this months
 3. A reward program for referrals can help boost community
 4. Track advertising spend and cost per registration once paid campaigns begins
