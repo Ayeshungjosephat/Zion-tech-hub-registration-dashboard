@@ -91,7 +91,7 @@ Instagram	2%	Awareness/younger audiences
 
 ## Dashboard
 
-![Zion Tech Hub Dashboard](images/dashboard-preview.png)
+![Zion Tech Hub Dashboard](https://github.com/Ayeshungjosephat/Zion-tech-hub-registration-dashboard/blob/main/zion%20tech.PNG)
 
 ## Disclaimer
 
