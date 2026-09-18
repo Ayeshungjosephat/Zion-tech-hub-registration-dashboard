@@ -69,7 +69,7 @@ Including occupation would therefore provide a limited and potentially unreprese
 ## Recommendations
 1. Budget allocation
 
-![Zion Tech Hub budget](https://github.com/Ayeshungjosephat/Zion-tech-hub-registration-dashboard/blob/main/budget.PNG)
+![Zion Tech Hub budget](https://github.com/Ayeshungjosephat/Zion-tech-hub-registration-dashboard/blob/main/images/budget.PNG)
 
 2. Start campaign before peak registration months (January & November) and Mid-week in this months
 3. A reward program for referrals can help boost community
@@ -86,7 +86,7 @@ Including occupation would therefore provide a limited and potentially unreprese
 
 ## Dashboard
 
-![Zion Tech Hub Dashboard](https://github.com/Ayeshungjosephat/Zion-tech-hub-registration-dashboard/blob/main/zion%20tech.PNG)
+![Zion Tech Hub Dashboard](https://github.com/Ayeshungjosephat/Zion-tech-hub-registration-dashboard/blob/main/images/zion%20tech.PNG)
 
 ## Disclaimer
 
